@@ -17,7 +17,7 @@
     },
     "dependencies": {
         "botbuilder": "^4.6.1",
-        "botbuilder-dialogs": "^4.6.1",
+        "botbuilder-dialogs": "^4.19.2",
         "dotenv": "^8.2.0",
         "globalize": "^1.4.2",
         "path": "^0.12.7",
